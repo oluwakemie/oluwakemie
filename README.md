@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Lagos Scholarship Board**
 
-- 👨‍💻 All of my projects are available at [oluwakemiportfolio.vercel.app](oluwakemiportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://kemmiy-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, vue, jira, HTML, CSS, SDLC, Version Control, selenium**
 
