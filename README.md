@@ -1,6 +1,6 @@
 [![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.webp)
 <h1 align="center">Hi 👋, I'm Oluwakemi Dada Esther</h1>
-<h3 align="center">A passionate frontend developer and Software Tester from Nigeria.</h3>
+<h3 align="center">An enthuasiatic Quality Assurance Engineer from Nigeria.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-works-computer-concept-freelancing-remote-work-office-home-vector-illustration-webmasters-day_499739-431.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwakemie&label=Profile%20views&color=0e75b6&style=flat" alt="oluwakemie" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **A bill payment platform called BILLVENDING**
 
-- 🌱 I’m currently learning **React Js, API Testing**
+- 🌱 I’m working on Test Automation Tools such as Selenium,Cypress and API Testing**
 
 - 👯 I’m looking to collaborate on **Lagos Scholarship Board**
 
